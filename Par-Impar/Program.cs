@@ -1,7 +1,4 @@
 ﻿/* 1 - faça um programa que leia um numero inicial e um numero final, mostrando entre eles quais são os valores pares e impares*/
-/*
- 
- */
 
 int inicial = 0, final = 0, contador = 0;
 
